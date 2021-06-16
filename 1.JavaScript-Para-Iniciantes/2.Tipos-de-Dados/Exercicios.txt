@@ -1,0 +1,12 @@
+1. Declare uma variavel contendo uma string
+
+2. Declare uma variavel contendo um numero dentro de uma string
+
+3. Declare uma variavel com sua idade
+
+4. Declare duas variaveis, uma com seu nome e outra com seu sobrenome e 
+some as duas
+
+5. Coloque a seguinte frase em uma variavel: Its time
+
+6. Verifique o tipo da variavel que contem seu nome

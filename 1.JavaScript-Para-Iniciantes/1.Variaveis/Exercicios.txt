@@ -1,0 +1,10 @@
+1. Declarar uma variavel com o seu nome
+
+2. Declarar uma variavel com sua idade
+
+3. Declarar uma variavel com a sua comida favorita e nao atribuir valor
+
+4. Atribuir valor a sua comida favorita
+
+5. Declarar 5 variaveis diferentes sem valores
+
