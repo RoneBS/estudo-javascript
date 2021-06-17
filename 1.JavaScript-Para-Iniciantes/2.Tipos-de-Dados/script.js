@@ -2,7 +2,7 @@
 //Todos sao primitivos exceto os objetos
 //Os tipos primitivos sao imutaveis
 
-var nome = 'Rone'; // String
+var nome = 'Meu Nome'; // String
 var idade = 28; // Number
 var possuiFaculdade = true; // Boolean
 var time; // Undefined
@@ -16,7 +16,7 @@ console.log(typeof nome);
 
 //concatenando strings
 
-var sobrenome = 'Silveira';
+var sobrenome = 'Fulano';
 
 nomeCompleto = nome + ' ' + sobrenome;
 

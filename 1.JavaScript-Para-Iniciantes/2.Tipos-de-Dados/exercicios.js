@@ -13,8 +13,8 @@ let age = 34;
 console.log(age);
 
 //Exercicio 4
-let meuNome = 'Rone';
-    meuSobrenome = 'Silveira';
+let meuNome = 'Meu Nome';
+    meuSobrenome = 'Fulano';
     nomeCompleto = `${meuNome} ${meuSobrenome}`;
     console.log(nomeCompleto);
 

@@ -1,0 +1,19 @@
+1. Verifique se a sua idade e maior do que a de algum parente. Dependendo 
+do resultado coloque no console, '
+E maior', 'E igual'
+
+2. Qual valor e retornado da seguinte expressao?
+let expressao = (5 - 2) && (5 - ' ') && (5 - 2)
+ 
+3. Verifique se as seguintes variaveis sai Truthy ou Falsy
+let nome = 'Meu Nome';
+let idade = 34;
+let possuiDoutorado = false;
+var empregoFuturo;
+let dinheiroNaConta = 0;
+
+4. Compare o total de habitantes do Brasil com China (valor em milhoes)
+let brasil = 207;
+let china = 1340;
+
+

@@ -1,5 +1,5 @@
 console.log('rodou!');
-var nome = 'Rone';
+var nome = 'Meu Nome';
 var idade = 34;
 var possuiFaculdade = true;
 
@@ -13,8 +13,8 @@ console.log(totalPreco);
 
 //Criando varias variaveis usando var somente uma vez
 
-var sobrenome = 'Silveira', 
-    cidade = 'Varzea Alegre';
+var sobrenome = 'Fulano', 
+    cidade = 'Algum lugar do Brasil';
 
 //Declarando uma variavel undefined
 
@@ -76,29 +76,3 @@ console.log(endereco);
 // const tipoSangue = 'O+';
 // tipoSangue = 'O-';
 // console.log(tipoSangue);
-
-//Resolucao dos exercicios
-
-//Exercicio 1
-
-const name = 'Rone';
-
-//Exercicio 2
-
-const age = 34;
-
-//Exercicio 3
-
-let comidaFavorita
-
-//Exercicio 4
-
-comidaFavorita = 'Sushi'
-
-// Exercicio 5
-
-var cor;
-    sobrenome;
-    diaDaSemana;
-    mes;
-    estacao;

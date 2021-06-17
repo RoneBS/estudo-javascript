@@ -2,7 +2,7 @@
 
 //Exercicio 1
 
-const name = 'Rone';
+const name = 'Meu Nome';
 
 //Exercicio 2
 
