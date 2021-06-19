@@ -69,3 +69,5 @@ function areaQuadrado(lado /*parametro */) {
 
  //OBS: uma funcao anonima nao possui nome, sao escritas como "function(){}" ou 
  //"() => {}" (esta ultima e uma arrow function, sera abordada futuramente);
+
+ 
