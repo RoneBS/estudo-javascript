@@ -1,0 +1,13 @@
+1. Crie um objeto com seus dados pessoais. Deve possuir pelo menos duas propriedades.
+
+2. Crie umm metodo no objeto anterior, que mostre nome e sobrenome.
+
+3. Modifique o valor da propriedade preco para 3000:
+let carro = {
+  preco: 1000,
+  portas: 4,
+  marca: 'Audi',
+}
+
+4. Crie um objeto de um cachorro que represente um labrador, preto com 10 anos,
+que late ao ver um homem.

@@ -1,0 +1,30 @@
+1. Crie uma funcao para verifcar se o valor e Truthy
+
+2. Crie umma funcao matematica que retorne o perimetro de um quadrado.
+Lembrando: perimetro e a saoma dos quatro lados do quadrado.
+
+3. Crie uma funcao que retorne o seu nome commpleto.
+Ela deve possuir os parametros: nome e sobrenome.
+
+4.Crie uma funcao que verifica se um numero e par.
+
+5. Crie uma funcao que retorne o tipo de dado do argumento passado nela (typeof).
+
+6. addEventListener e uma funcao nativa do javascript: 
+o promeiro parametro e o evento que ocorre e o segundo o callback
+utilize essa funcao para mostrar no console o seu nome commpleto
+quando o evento 'click' ocorrer.
+
+7. Corrija o erro abaixo:
+
+function precisoVisitar(paisesVisitados) {
+  var totalPaises = 193;
+  return `Ainda faltam ${totalPaises - paisesVisitados} paises para visitar`;
+}
+
+function jaVisitei(paisesVisitados) {
+  return `Ja visitei ${paisesVisitados} do total de ${totalPaises} paises`;
+}
+
+precisoVisitar(20);
+jaVisitei(20);
