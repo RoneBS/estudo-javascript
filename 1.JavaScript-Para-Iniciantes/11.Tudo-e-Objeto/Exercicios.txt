@@ -1,0 +1,6 @@
+1. Nomeie 3 propriedades ou metodos de strings
+
+2. Nomeie 5 propriedades ou metodos de elementos DOM
+
+3. Busque na web um objeto (metodo) capaz de interagir com o clipboard.
+Clipboard e a parte do seu computador que lida com o CRTL + C, CRTL + V.
