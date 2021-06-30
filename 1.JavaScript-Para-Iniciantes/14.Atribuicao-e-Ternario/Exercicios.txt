@@ -1,0 +1,8 @@
+1. Some 500 ao valor de scroll abaixo, atribuindo o novo valor a scroll
+let scroll = 1000;
+
+2. Atribua true a variavel darCredito, caso o cliente possua carro e casa. e false
+caso o contrario;
+let possuiCarro = true;
+let possuiCasa = true;
+let darCredito;
