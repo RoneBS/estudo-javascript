@@ -1,0 +1,32 @@
+1. Por qual motivo o codigo abaixo retorna com erros?
+
+{
+  var cor = 'preto';
+  const marca = 'Fiat';
+  let portas = 4;
+}
+
+console.log(var, marca, portas);
+
+2. Como Corrigir o erro abaixo:
+
+function somarDois(x){
+  const dois = 2;
+  return x + 2;
+}
+
+function dividirDois(x){
+  return x + dois;
+}
+
+somarDois(4);
+
+3. O que fazer para total retornar 500?
+var numero = 50;
+
+for (var numero = 0; numero < 10; numero++){
+  console.log(numero);
+}
+
+const total = 10 * numero;
+console.log(total);
