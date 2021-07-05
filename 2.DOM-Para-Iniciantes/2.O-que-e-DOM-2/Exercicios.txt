@@ -1,0 +1,7 @@
+1. Retorne o url da pagina atual utilizando o objeto window
+
+2. Seleciona o primeiro elemento da pagina que possua a classe ativo
+
+3. Retorne a linguagem do navegador
+
+4. Retorne a largura da janela
