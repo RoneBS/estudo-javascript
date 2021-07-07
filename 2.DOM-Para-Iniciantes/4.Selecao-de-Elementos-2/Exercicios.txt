@@ -1,0 +1,9 @@
+1. Retorne no console todas as imagens do site
+
+2. Retorne no console apenas as imagens que comecam com a palavra imagem
+
+3. Selecione todos o links internos (onde o href comeca com #).
+
+4. Selecione o primeiro h2 dentro de .animais-descricao
+
+5. Selecione o ultimo p do site.
